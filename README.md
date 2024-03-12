@@ -4,10 +4,10 @@ Build an Open Source Research Chat Assistant with Ollama and RAG
 
 # Installation
 
-pip install llama-index
-pip install llama-index-llms-ollama
-pip install llama-index-vector-stores-qdrant
-pip install llama-index-embeddings-huggingface
+pip install llama-index\
+pip install llama-index-llms-ollama\
+pip install llama-index-vector-stores-qdrant\
+pip install llama-index-embeddings-huggingface\
 
 pip install arxiv
 
