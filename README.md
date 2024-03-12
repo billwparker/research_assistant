@@ -11,8 +11,8 @@ pip install llama-index-embeddings-huggingface\
 
 pip install arxiv
 
-MAC
+MAC\
 export OPENAI_API_KEY=XXXXX
 
-Windows
+Windows\
 set OPENAI_API_KEY=XXXXX
